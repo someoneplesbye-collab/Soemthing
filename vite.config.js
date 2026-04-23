@@ -4,9 +4,10 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  root: './',
   server: {
     port: 3000,
     host: '0.0.0.0',
-    hmr: process.env.DISABLE_HMR !== 'true',
+    hmr: false
   },
 });
