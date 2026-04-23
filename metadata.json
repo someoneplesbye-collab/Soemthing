@@ -1,0 +1,11 @@
+{
+  "name": "Arcade Nova",
+  "description": "A curated collection of unblocked web games in a seamless, high-performance arcade interface.",
+  "requestFramePermissions": [
+    "fullscreen"
+  ],
+  "majorCapabilities": [
+    "gaming",
+    "iframe-embeds"
+  ]
+}

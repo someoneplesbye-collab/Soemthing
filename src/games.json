@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic numbers puzzle game. Join the tiles and get to the 2048 tile!",
+    "thumbnail": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?auto=format&fit=crop&q=80&w=400",
+    "url": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "Stack the blocks and clear the lines in this legendary arcade classic.",
+    "thumbnail": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&q=80&w=400",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Classic"
+  },
+  {
+    "id": "pacman",
+    "title": "Google Pac-Man",
+    "description": "Relive the magic of the 80s with this unblocked version of Pac-Man.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=400",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade"
+  },
+  {
+    "id": "snake",
+    "title": "Snake Game",
+    "description": "The simple but addictive game of growing your snake without hitting the walls.",
+    "thumbnail": "https://images.unsplash.com/photo-1553481187-be93c21490a9?auto=format&fit=crop&q=80&w=400",
+    "url": "https://www.google.com/search?q=play+snake",
+    "category": "Classic"
+  },
+  {
+    "id": "dinosaur",
+    "title": "Dino Run",
+    "description": "The famous chrome dino game accessible anytime, even when you are online.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=400",
+    "url": "https://chromedino.com/",
+    "category": "Running"
+  },
+  {
+    "id": "chess",
+    "title": "Chess.com",
+    "description": "Play chess online against the computer or friends in a professional environment.",
+    "thumbnail": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&q=80&w=400",
+    "url": "https://www.chess.com/play/online",
+    "category": "Strategy"
+  },
+  {
+    "id": "solitaire",
+    "title": "Solitaire",
+    "description": "The classic single-player card game to keep your mind sharp.",
+    "thumbnail": "https://images.unsplash.com/photo-1589330694653-976985474c10?auto=format&fit=crop&q=80&w=400",
+    "url": "https://www.google.com/logos/2011/solitaire.html",
+    "category": "Cards"
+  },
+  {
+    "id": "sudoku",
+    "title": "247 Sudoku",
+    "description": "The ultimate brain teaser. Solve logic-based number puzzles.",
+    "thumbnail": "https://images.unsplash.com/photo-1580541832626-2a7131ee809f?auto=format&fit=crop&q=80&w=400",
+    "url": "https://www.247sudoku.com/",
+    "category": "Puzzle"
+  }
+]
